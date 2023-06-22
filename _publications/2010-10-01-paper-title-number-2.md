@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: "Assessing the impact of taxon resolution on network structure"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2020-11-03-taxon-resolution
+excerpt: 'In network ecology we're frequently required to simplify complex data into nodes, we here demonstrate the impact of this on perceived network structure'
+date: 2020-11-03
+venue: 'Ecology'
+paperurl: 'https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3256'
+citation: #'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Constructing ecological networks has become an indispensable approach in understanding how different taxa interact. However, the methods used to generate data in network research vary widely among studies, potentially limiting our ability to compare results meaningfully. In particular, methods of classifying nodes vary in their precision, likely altering the architecture of the network studied. For example, rather than being classified as Linnaean species, taxa are regularly assigned to morphospecies in observational studies, or to molecular operational taxonomic units (MOTUs) in molecular studies, with the latter defined based on an arbitrary threshold of sequence similarity. Although the use of MOTUs in ecological networks holds great potential, especially for allowing rapid construction of large data sets of interactions, it is unclear how the choice of clustering threshold can influence the conclusions obtained. To test the impact of taxonomic precision on network architecture, we obtained and analyzed 16 data sets of ecological interactions, inferred from metabarcoding and observations. Our comparisons of networks constructed under a range of sequence thresholds for assigning taxa demonstrate that even small changes in node resolution can cause wide variation in almost all key metric values. Moreover, relative values of commonly used metrics such as robustness were seen to fluctuate continuously with node resolution, thereby potentially causing error in conclusions drawn when comparing multiple networks. In observational networks, we found that changing node resolution could, in some cases, lead to substantial changes to measurements of network topology. Overall, our findings highlight the importance of classifying nodes to the greatest precision possible, and demonstrate the need for caution when comparing networks that differ with respect to node resolution, even where taxonomic groups and interaction types are similar. In such cases, we recommend that comparisons of networks should focus on relative differences rather than absolute values between the networks studied.
