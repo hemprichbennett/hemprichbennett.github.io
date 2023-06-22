@@ -83,7 +83,7 @@ author:
   name             : "David Hemprich-Bennett"
   avatar           : "profile.png"
   bio              : "Postdoctoral researcher in Molecular Ecology and conservaton"
-  location         : "Oxfordshire, UK"
+  location         : #"Oxfordshire, UK"
   employer         : "Oxford University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=wPpxdEcAAAAJ&hl=en"
