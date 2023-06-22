@@ -2,7 +2,7 @@
 title: "Assessing the impact of taxon resolution on network structure"
 collection: publications
 permalink: /publication/2020-11-03-taxon-resolution
-#excerpt: 'In network ecology we're frequently required to simplify complex data into nodes, we here demonstrate the impact of this on perceived network structure'
+excerpt: "In network ecology we're frequently required to simplify complex data into nodes, we here demonstrate the impact of this on perceived network structure"
 date: 2020-11-03
 venue: 'Ecology'
 paperurl: 'https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3256'
