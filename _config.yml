@@ -84,11 +84,11 @@ author:
   avatar           : "profile.png"
   bio              : "Postdoctoral researcher in Molecular Ecology and conservaton"
   location         : "Oxfordshire, UK"
-  employer         :
+  employer         : "Oxford University, working for Target Malaria"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=wPpxdEcAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : hemprich.bennett@gmail.com
+  researchgate     :  "https://www.researchgate.net/profile/David-Hemprich-Bennett"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "http://www.linkedin.com/in/david-hemprich-bennett/"
   orcid            : "https://orcid.org/0000-0002-3555-4295"
   pinterest        :
   soundcloud       :
