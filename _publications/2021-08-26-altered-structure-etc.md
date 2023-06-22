@@ -1,8 +1,8 @@
 ---
 title: "Altered structure of bat-prey interaction networks in logged tropical forests revealed by metabarcoding"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/2021-08-26-altered-structure-etc
+excerpt: 'Using DNA metabarcoding we demonstrated how tropical logging altered bat diet'
 date: 2021-08-26
 venue: 'Molecular Ecology'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.16153'
