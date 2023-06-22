@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "David Hemprich-Bennett / Academic site"
+title                    : "David Hemprich-Bennett"
 title_separator          : "-"
 name                     : &name "David Hemprich-Bennett"
 description              : &description "Academic site"
