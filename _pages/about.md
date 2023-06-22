@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Test
+This is a test site, most of the values are still defaults and so shouldn't be taken remotely seriously
