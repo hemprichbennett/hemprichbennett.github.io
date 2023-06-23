@@ -2,7 +2,7 @@
 title: "Enhancing the ecological value of oil palm agriculture through set-asides"
 collection: publications
 permalink: /publication/2023-02-06-optimising-op
-excerpt: "Using a large number of datasets (including my data on bat occurrence) we modelled approaches of configuring set-aside areas in oil palm plantations, to best optimise them for both ecological and crop value"
+excerpt: "Using a large number of datasets (including my data on bat occurrence) we modelled approaches of configuring set-aside areas in oil palm plantations, to best optimise them for both ecological and crop value."
 date: 2023-02-06
 venue: 'Nature Sustainability'
 paperurl: 'https://www.nature.com/articles/s41893-022-01049-6'
